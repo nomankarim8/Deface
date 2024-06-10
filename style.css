@@ -101,12 +101,13 @@ html {
         text-transform: uppercase;
         color         : #008000;
     }
-    
+
 
     .effect2 {
         font-size  : 17px;
         padding-top: 1px;
     }
+
 
     .container .teamName {
         padding       : 10px 0px;
@@ -114,6 +115,7 @@ html {
         font-size     : 14px;
     }
 
+    
     .mainContainer h1 {
         padding: 2px 0px;
     }
