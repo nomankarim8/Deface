@@ -119,13 +119,14 @@ html {
     .mainContainer h1 {
         padding: 2px 0px;
     }
-    
+
 
     .textbox {
 
         font-size: 13px;
         width    : 300px;
     }
+
 
     .hr {
         width: 300px;
@@ -137,4 +138,5 @@ html {
         letter-spacing: 4px;
         font-family   : 'Waterfall', cursive;
     }
+    
 }
